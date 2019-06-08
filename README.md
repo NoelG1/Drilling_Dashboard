@@ -15,3 +15,6 @@ We used segyio to read in the segy file
 import segyio as sg
 ```
 and then for isolating inlines and crosslines a jupyter notebook widget was used, then plotly to display the dashboard.
+```
+import plotly as py
+```
